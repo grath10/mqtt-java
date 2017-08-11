@@ -1,3 +1,3 @@
 # mqtt-java
 
-MQTT related build on Java
+MQTT related projects build on Java
